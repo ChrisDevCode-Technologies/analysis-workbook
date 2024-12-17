@@ -1,0 +1,1378 @@
+[
+    {
+        "Basic Information": {
+            "company_name": "Brown, Armstrong and Singh",
+            "trade_name_dba": null,
+            "registration_number": "228503299",
+            "year_of_establishment": 1932,
+            "industry_field": "Healthcare",
+            "company_size": "1-10 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "JOMVU",
+                "ward": "JOMVU KUU",
+                "postal_address": "31702",
+                "latitude": "0.29534",
+                "longitude": "30.92237"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "KISAUNI",
+                    "ward": "MWAKIRUNGE",
+                    "postal_address": "79645",
+                    "latitude": "0.63814",
+                    "longitude": "34.7817"
+                }
+            ],
+            "phone_number": "+254048083492",
+            "alternate_phone_number": "+254829681474",
+            "email_address": "carolyn92@smith.org",
+            "website_url": "http://maddox.com",
+            "social_media_handles": [
+                "Instagram:Brown,ArmstrongandSingh"
+            ]
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Hospitality",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Consulting Services"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 300,
+            "employee_demographics": null,
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Data Analysis",
+                "Programming"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1932-02-28T00:00:00",
+            "tax_identification_number": "4883685464",
+            "license_number": null,
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Self-Funded",
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Table billion kind thousand road be need tree need.",
+            "csr_initiatives": null,
+            "awards_certifications": [],
+            "compliance_with_labor_laws": true,
+            "compliance_details": null,
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Smith, Taylor and Brooks",
+            "trade_name_dba": "Smith, Taylor and Brooks",
+            "registration_number": "996966753",
+            "year_of_establishment": 1984,
+            "industry_field": "Healthcare",
+            "company_size": "201-500 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "CHANGAMWE",
+                "ward": "AIRPORT",
+                "postal_address": "08206",
+                "latitude": "0.73876",
+                "longitude": "36.55843"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "NYALI",
+                    "ward": "KONGOWEA",
+                    "postal_address": "81415",
+                    "latitude": "0.68224",
+                    "longitude": "38.54086"
+                },
+                {
+                    "branch_name": "PLC",
+                    "sub_county": "MVITA",
+                    "ward": "TONONOKA",
+                    "postal_address": "38550",
+                    "latitude": "0.58308",
+                    "longitude": "36.36371"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "NYALI",
+                    "ward": "ZIWA LA NG'OMBE",
+                    "postal_address": "42898",
+                    "latitude": "-0.06946",
+                    "longitude": "30.48919"
+                }
+            ],
+            "phone_number": "+254899827532",
+            "alternate_phone_number": null,
+            "email_address": "fknight@garrett.org",
+            "website_url": "http://taylor-williams.biz",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Manufacturing",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Financial Advisory",
+                "Software",
+                "Textiles"
+            ],
+            "target_market": "Global",
+            "key_clients_partners": [
+                "Jones, Warner and Mitchell"
+            ],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 552,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "Hybrid",
+            "skills_qualifications_required": [
+                "Data Analysis"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1984-06-27T00:00:00",
+            "tax_identification_number": "3332757178",
+            "license_number": "8M1ROE2",
+            "annual_revenue_bracket": "$1M-$10M",
+            "funding_sources": [
+                "Grants",
+                "Self-Funded"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Box may wife same language family Democrat check light.",
+            "csr_initiatives": null,
+            "awards_certifications": [],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Email"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Nguyen Inc",
+            "trade_name_dba": null,
+            "registration_number": "608504526",
+            "year_of_establishment": 2003,
+            "industry_field": "Finance",
+            "company_size": "51-200 employees",
+            "organization_type": "Public"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "NYALI",
+                "ward": "KADZANDANI",
+                "postal_address": "34228",
+                "latitude": "-0.47175",
+                "longitude": "32.4876"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "PLC",
+                    "sub_county": "LIKONI",
+                    "ward": "SHIKA ADABU",
+                    "postal_address": "53936",
+                    "latitude": "-0.39427",
+                    "longitude": "38.23567"
+                },
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "MVITA",
+                    "ward": "TONONOKA",
+                    "postal_address": "82251",
+                    "latitude": "-0.65081",
+                    "longitude": "34.11142"
+                },
+                {
+                    "branch_name": "Group",
+                    "sub_county": "MVITA",
+                    "ward": "TUDOR",
+                    "postal_address": "47635",
+                    "latitude": "0.9376",
+                    "longitude": "30.31622"
+                }
+            ],
+            "phone_number": "+254804870947",
+            "alternate_phone_number": null,
+            "email_address": "ryan30@brown.com",
+            "website_url": "http://anderson.net",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Software Development",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Organic Produce"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [
+                "Dawson-Smith",
+                "Ross-Curry",
+                "Johnson Ltd"
+            ],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 417,
+            "employee_demographics": null,
+            "recruitment_policy": "On-site",
+            "skills_qualifications_required": [
+                "Programming"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "2003-04-13T00:00:00",
+            "tax_identification_number": "0201170396",
+            "license_number": "W4B7BZS",
+            "annual_revenue_bracket": "$1M-$10M",
+            "funding_sources": [
+                "Loans",
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Present challenge miss it artist bed action religious sport.",
+            "csr_initiatives": null,
+            "awards_certifications": [],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Cordova, Galvan and Hall",
+            "trade_name_dba": "Hahn Inc",
+            "registration_number": "441098775",
+            "year_of_establishment": 1904,
+            "industry_field": "Retail",
+            "company_size": "51-200 employees",
+            "organization_type": "Private"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "LIKONI",
+                "ward": "SHIKA ADABU",
+                "postal_address": "81927",
+                "latitude": "0.59812",
+                "longitude": "36.66386"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "NYALI",
+                    "ward": "ZIWA LA NG'OMBE",
+                    "postal_address": "16399",
+                    "latitude": "0.74548",
+                    "longitude": "39.12251"
+                }
+            ],
+            "phone_number": "+254574294984",
+            "alternate_phone_number": "+254927299548",
+            "email_address": "ruizstephen@nguyen-osborn.com",
+            "website_url": "http://guzman-schwartz.org",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Software Development",
+            "secondary_activities": [
+                "Retail"
+            ],
+            "products_services_offered": [
+                "Consulting Services",
+                "Textiles",
+                "Software"
+            ],
+            "target_market": "Global",
+            "key_clients_partners": [
+                "Grant PLC",
+                "Jacobs Ltd"
+            ],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 297,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "On-site",
+            "skills_qualifications_required": [
+                "Sales",
+                "Project Management",
+                "Marketing"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": [
+                "Paid Leave",
+                "Pension",
+                "Health Insurance",
+                "Flexible Hours"
+            ]
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1904-11-07T00:00:00",
+            "tax_identification_number": "4265023179",
+            "license_number": "2JO02W0",
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Investors"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "No fish side participant resource structure price set church four.",
+            "csr_initiatives": "Something huge recognize these black consumer big number stuff.",
+            "awards_certifications": [
+                "Blue Award",
+                "Business Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Email"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Key-Smith",
+            "trade_name_dba": null,
+            "registration_number": "888684772",
+            "year_of_establishment": 1971,
+            "industry_field": "Construction",
+            "company_size": "1-10 employees",
+            "organization_type": "Private"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "JOMVU",
+                "ward": "MIRITINI",
+                "postal_address": "48070",
+                "latitude": "-0.51616",
+                "longitude": "37.47797"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "JOMVU",
+                    "ward": "JOMVU KUU",
+                    "postal_address": "85203",
+                    "latitude": "-0.65521",
+                    "longitude": "39.59431"
+                },
+                {
+                    "branch_name": "Group",
+                    "sub_county": "LIKONI",
+                    "ward": "TIMBWANI",
+                    "postal_address": "73720",
+                    "latitude": "-0.04933",
+                    "longitude": "37.23214"
+                },
+                {
+                    "branch_name": "Inc",
+                    "sub_county": "CHANGAMWE",
+                    "ward": "CHAANI",
+                    "postal_address": "14112",
+                    "latitude": "-0.57667",
+                    "longitude": "33.09069"
+                }
+            ],
+            "phone_number": "+254798558047",
+            "alternate_phone_number": "+254854133581",
+            "email_address": "ryanmelanie@thomas.com",
+            "website_url": "http://davis.biz",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Hospitality",
+            "secondary_activities": [
+                "Consultancy"
+            ],
+            "products_services_offered": [
+                "Software",
+                "Textiles",
+                "Financial Advisory"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 276,
+            "employee_demographics": null,
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Project Management",
+                "Sales"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1971-03-15T00:00:00",
+            "tax_identification_number": "4850725688",
+            "license_number": null,
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Self-Funded"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Manager despite man out cup wrong my style task.",
+            "csr_initiatives": null,
+            "awards_certifications": [
+                "Hospital Award"
+            ],
+            "compliance_with_labor_laws": true,
+            "compliance_details": null,
+            "preferred_communication_channel": "Email"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Thompson-Hernandez",
+            "trade_name_dba": "Thompson-Hernandez",
+            "registration_number": "435671159",
+            "year_of_establishment": 1971,
+            "industry_field": "Healthcare",
+            "company_size": "500+",
+            "organization_type": "Public"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "MVITA",
+                "ward": "TONONOKA",
+                "postal_address": "24501",
+                "latitude": "-0.32729",
+                "longitude": "34.02899"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "LIKONI",
+                    "ward": "BOFU",
+                    "postal_address": "79416",
+                    "latitude": "0.97655",
+                    "longitude": "37.82157"
+                },
+                {
+                    "branch_name": "PLC",
+                    "sub_county": "LIKONI",
+                    "ward": "TIMBWANI",
+                    "postal_address": "54449",
+                    "latitude": "0.60343",
+                    "longitude": "37.44276"
+                },
+                {
+                    "branch_name": "PLC",
+                    "sub_county": "MVITA",
+                    "ward": "MAJENGO",
+                    "postal_address": "30634",
+                    "latitude": "-0.88785",
+                    "longitude": "39.49596"
+                }
+            ],
+            "phone_number": "+254172721164",
+            "alternate_phone_number": "+254262193376",
+            "email_address": "amanda29@alvarez.com",
+            "website_url": "http://wilson.com",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Manufacturing",
+            "secondary_activities": [
+                "Consultancy"
+            ],
+            "products_services_offered": [
+                "Textiles",
+                "Consulting Services",
+                "Organic Produce"
+            ],
+            "target_market": "Local",
+            "key_clients_partners": [
+                "Mccoy-Lee"
+            ],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 115,
+            "employee_demographics": null,
+            "recruitment_policy": "On-site",
+            "skills_qualifications_required": [
+                "Sales",
+                "Marketing",
+                "Programming",
+                "Project Management"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1971-04-02T00:00:00",
+            "tax_identification_number": "5760768523",
+            "license_number": "GFWG57Q",
+            "annual_revenue_bracket": ">$100M",
+            "funding_sources": [
+                "Investors",
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Admit once day camera strong but left upon hear believe no space.",
+            "csr_initiatives": "Indeed hand be white create our first.",
+            "awards_certifications": [],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Gutierrez-Contreras",
+            "trade_name_dba": null,
+            "registration_number": "336345173",
+            "year_of_establishment": 1908,
+            "industry_field": "Healthcare",
+            "company_size": "51-200 employees",
+            "organization_type": "Private"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "NYALI",
+                "ward": "MKOMANI",
+                "postal_address": "53443",
+                "latitude": "0.86224",
+                "longitude": "33.39932"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Inc",
+                    "sub_county": "MVITA",
+                    "ward": "MAKADARA/MJI WA KALE",
+                    "postal_address": "79214",
+                    "latitude": "0.08739",
+                    "longitude": "33.39333"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "MVITA",
+                    "ward": "MAKADARA/MJI WA KALE",
+                    "postal_address": "45187",
+                    "latitude": "0.21352",
+                    "longitude": "31.92038"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "JOMVU",
+                    "ward": "JOMVU KUU",
+                    "postal_address": "63988",
+                    "latitude": "0.81606",
+                    "longitude": "35.65338"
+                }
+            ],
+            "phone_number": "+254726043464",
+            "alternate_phone_number": null,
+            "email_address": "jameswest@sharp.com",
+            "website_url": "http://hensley.net",
+            "social_media_handles": [
+                "Twitter:Gutierrez-Contreras",
+                "Instagram:Gutierrez-Contreras"
+            ]
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Hospitality",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Software",
+                "Textiles"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [
+                "Jones-Austin",
+                "Young Group",
+                "Larsen Group"
+            ],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 640,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "Hybrid",
+            "skills_qualifications_required": [
+                "Sales"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1908-05-08T00:00:00",
+            "tax_identification_number": "6162905408",
+            "license_number": null,
+            "annual_revenue_bracket": "$1M-$10M",
+            "funding_sources": [
+                "Loans"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Election glass boy move soon usually see place anyone education.",
+            "csr_initiatives": "Black activity bad fact sing.",
+            "awards_certifications": [
+                "Blood Award"
+            ],
+            "compliance_with_labor_laws": true,
+            "compliance_details": null,
+            "preferred_communication_channel": "Phone"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Martin, Baker and Booker",
+            "trade_name_dba": null,
+            "registration_number": "478355811",
+            "year_of_establishment": 1973,
+            "industry_field": "Healthcare",
+            "company_size": "201-500 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "NYALI",
+                "ward": "KONGOWEA",
+                "postal_address": "15247",
+                "latitude": "0.10497",
+                "longitude": "30.75763"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "and Sons",
+                    "sub_county": "MVITA",
+                    "ward": "TUDOR",
+                    "postal_address": "78957",
+                    "latitude": "-0.30296",
+                    "longitude": "33.69695"
+                },
+                {
+                    "branch_name": "Group",
+                    "sub_county": "CHANGAMWE",
+                    "ward": "KIPEVU",
+                    "postal_address": "02376",
+                    "latitude": "0.81938",
+                    "longitude": "31.57283"
+                }
+            ],
+            "phone_number": "+254697225433",
+            "alternate_phone_number": null,
+            "email_address": "gonzalezrenee@davis-lewis.net",
+            "website_url": "http://miles.com",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Hospitality",
+            "secondary_activities": [
+                "Hospitality"
+            ],
+            "products_services_offered": [
+                "Organic Produce",
+                "Financial Advisory",
+                "Software"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [
+                "Odom-Dunn",
+                "Miller and Sons"
+            ],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 433,
+            "employee_demographics": null,
+            "recruitment_policy": "Hybrid",
+            "skills_qualifications_required": [
+                "Data Analysis",
+                "Programming",
+                "Sales"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1973-10-15T00:00:00",
+            "tax_identification_number": "5491412076",
+            "license_number": null,
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Self-Funded",
+                "Loans"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Carry against community full behind with follow sort hard financial choose.",
+            "csr_initiatives": null,
+            "awards_certifications": [
+                "Month Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Hall-Hayes",
+            "trade_name_dba": "Hall-Hayes",
+            "registration_number": "317918045",
+            "year_of_establishment": 1929,
+            "industry_field": "Healthcare",
+            "company_size": "1-10 employees",
+            "organization_type": "Public"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "CHANGAMWE",
+                "ward": "PORT REITZ",
+                "postal_address": "29408",
+                "latitude": "-0.15893",
+                "longitude": "34.49146"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "KISAUNI",
+                    "ward": "MTOPANGA",
+                    "postal_address": "14799",
+                    "latitude": "0.32455",
+                    "longitude": "38.86742"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "JOMVU",
+                    "ward": "JOMVU KUU",
+                    "postal_address": "69542",
+                    "latitude": "0.3626",
+                    "longitude": "36.14526"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "NYALI",
+                    "ward": "MKOMANI",
+                    "postal_address": "58038",
+                    "latitude": "-0.09151",
+                    "longitude": "33.40696"
+                }
+            ],
+            "phone_number": "+254063018075",
+            "alternate_phone_number": null,
+            "email_address": "melissafleming@gordon-baird.com",
+            "website_url": "http://washington.com",
+            "social_media_handles": [
+                "LinkedIn:Hall-Hayes"
+            ]
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Hospitality",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Textiles"
+            ],
+            "target_market": "Global",
+            "key_clients_partners": [],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 103,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Data Analysis"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1929-01-15T00:00:00",
+            "tax_identification_number": "4365155216",
+            "license_number": null,
+            "annual_revenue_bracket": ">$100M",
+            "funding_sources": [
+                "Self-Funded",
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Force time look article sport ahead.",
+            "csr_initiatives": "Sound member professor TV war friend method friend table rise.",
+            "awards_certifications": [],
+            "compliance_with_labor_laws": true,
+            "compliance_details": null,
+            "preferred_communication_channel": "Email"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Rubio Ltd",
+            "trade_name_dba": "Rubio Ltd",
+            "registration_number": "906015825",
+            "year_of_establishment": 1943,
+            "industry_field": "Technology",
+            "company_size": "500+",
+            "organization_type": "Private"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "KISAUNI",
+                "ward": "JUNDA",
+                "postal_address": "08693",
+                "latitude": "0.96587",
+                "longitude": "37.30711"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "and Sons",
+                    "sub_county": "MVITA",
+                    "ward": "MAJENGO",
+                    "postal_address": "08699",
+                    "latitude": "-0.54931",
+                    "longitude": "34.76661"
+                },
+                {
+                    "branch_name": "and Sons",
+                    "sub_county": "JOMVU",
+                    "ward": "MIKINDANI",
+                    "postal_address": "37046",
+                    "latitude": "-0.94482",
+                    "longitude": "30.08294"
+                },
+                {
+                    "branch_name": "LLC",
+                    "sub_county": "NYALI",
+                    "ward": "MKOMANI",
+                    "postal_address": "22251",
+                    "latitude": "-0.66015",
+                    "longitude": "39.63708"
+                }
+            ],
+            "phone_number": "+254441725815",
+            "alternate_phone_number": null,
+            "email_address": "bergemily@watkins.info",
+            "website_url": "http://knox.com",
+            "social_media_handles": [
+                "LinkedIn:RubioLtd",
+                "Instagram:RubioLtd"
+            ]
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Retail",
+            "secondary_activities": [
+                "Manufacturing"
+            ],
+            "products_services_offered": [
+                "Hardware",
+                "Software"
+            ],
+            "target_market": "Local",
+            "key_clients_partners": [
+                "Benson, Hernandez and Owens"
+            ],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 131,
+            "employee_demographics": null,
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Project Management",
+                "Marketing",
+                "Programming"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": [
+                "Paid Leave",
+                "Pension",
+                "Health Insurance"
+            ]
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1943-03-23T00:00:00",
+            "tax_identification_number": "1549243472",
+            "license_number": "LMPQK6J",
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Show house six spend attention right unit nor entire book party.",
+            "csr_initiatives": null,
+            "awards_certifications": [
+                "Oil Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Phone"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Hubbard, Boyer and Black",
+            "trade_name_dba": null,
+            "registration_number": "834077387",
+            "year_of_establishment": 2000,
+            "industry_field": "Construction",
+            "company_size": "51-200 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "CHANGAMWE",
+                "ward": "CHANGAMWE",
+                "postal_address": "48297",
+                "latitude": "-0.35668",
+                "longitude": "31.97451"
+            },
+            "branch_locations": [],
+            "phone_number": "+254413616911",
+            "alternate_phone_number": null,
+            "email_address": "lmartinez@vargas-glass.com",
+            "website_url": "http://green.com",
+            "social_media_handles": [
+                "Twitter:Hubbard,BoyerandBlack"
+            ]
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Software Development",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Organic Produce"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 859,
+            "employee_demographics": null,
+            "recruitment_policy": "On-site",
+            "skills_qualifications_required": [
+                "Data Analysis",
+                "Programming",
+                "Sales"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": [
+                "Pension",
+                "Paid Leave",
+                "Flexible Hours"
+            ]
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "2000-03-11T00:00:00",
+            "tax_identification_number": "2504181241",
+            "license_number": "63G6W9T",
+            "annual_revenue_bracket": "$10M-$50M",
+            "funding_sources": [
+                "Loans",
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Movie key concern base front later national personal year among discuss start in.",
+            "csr_initiatives": "Force discover dream meeting another.",
+            "awards_certifications": [
+                "Trouble Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Email"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Price-Smith",
+            "trade_name_dba": "Conrad, Johnson and Knapp",
+            "registration_number": "192409115",
+            "year_of_establishment": 1991,
+            "industry_field": "Finance",
+            "company_size": "11-50 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "KISAUNI",
+                "ward": "MWAKIRUNGE",
+                "postal_address": "82498",
+                "latitude": "-0.05252",
+                "longitude": "37.50404"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "MVITA",
+                    "ward": "TUDOR",
+                    "postal_address": "38781",
+                    "latitude": "-0.5957",
+                    "longitude": "36.03128"
+                },
+                {
+                    "branch_name": "Group",
+                    "sub_county": "JOMVU",
+                    "ward": "JOMVU KUU",
+                    "postal_address": "97322",
+                    "latitude": "-0.00243",
+                    "longitude": "33.81548"
+                },
+                {
+                    "branch_name": "Ltd",
+                    "sub_county": "CHANGAMWE",
+                    "ward": "CHAANI",
+                    "postal_address": "26083",
+                    "latitude": "0.83059",
+                    "longitude": "30.74828"
+                }
+            ],
+            "phone_number": "+254134857925",
+            "alternate_phone_number": null,
+            "email_address": "kharris@pena.com",
+            "website_url": "http://parrish-torres.net",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Software Development",
+            "secondary_activities": [
+                "Software Development"
+            ],
+            "products_services_offered": [
+                "Financial Advisory"
+            ],
+            "target_market": "Global",
+            "key_clients_partners": [
+                "Mcguire, Juarez and Ward"
+            ],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 376,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "Hybrid",
+            "skills_qualifications_required": [
+                "Marketing",
+                "Sales",
+                "Design",
+                "Programming"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1991-11-20T00:00:00",
+            "tax_identification_number": "9933950937",
+            "license_number": null,
+            "annual_revenue_bracket": "$1M-$10M",
+            "funding_sources": [
+                "Loans"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Partner service firm expect wait from eye evening least management sure work.",
+            "csr_initiatives": null,
+            "awards_certifications": [
+                "Own Award",
+                "Short Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Ray-Raymond",
+            "trade_name_dba": null,
+            "registration_number": "913027122",
+            "year_of_establishment": 1996,
+            "industry_field": "Finance",
+            "company_size": "201-500 employees",
+            "organization_type": "Private"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "NYALI",
+                "ward": "FRERE TOWN",
+                "postal_address": "09753",
+                "latitude": "0.05521",
+                "longitude": "33.79172"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Group",
+                    "sub_county": "MVITA",
+                    "ward": "GANJONI/SHIMANZI",
+                    "postal_address": "01090",
+                    "latitude": "0.76121",
+                    "longitude": "32.96562"
+                },
+                {
+                    "branch_name": "Group",
+                    "sub_county": "MVITA",
+                    "ward": "TUDOR",
+                    "postal_address": "95997",
+                    "latitude": "-0.37032",
+                    "longitude": "33.46295"
+                },
+                {
+                    "branch_name": "and Sons",
+                    "sub_county": "CHANGAMWE",
+                    "ward": "AIRPORT",
+                    "postal_address": "99776",
+                    "latitude": "0.24206",
+                    "longitude": "31.94698"
+                }
+            ],
+            "phone_number": "+254271427323",
+            "alternate_phone_number": "+254668757526",
+            "email_address": "amber32@mcdonald.com",
+            "website_url": "http://martinez-castillo.net",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Manufacturing",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Software"
+            ],
+            "target_market": "Local",
+            "key_clients_partners": [
+                "Flores-Shields"
+            ],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 713,
+            "employee_demographics": {
+                "gender_ratio": "50% male, 50% female",
+                "age_groups": "20-30:40%,30-40:30%,40+:30%"
+            },
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Programming"
+            ],
+            "training_development_offered": false,
+            "employee_benefits": []
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1996-09-13T00:00:00",
+            "tax_identification_number": "5963845103",
+            "license_number": "BVO5CJW",
+            "annual_revenue_bracket": "$1M-$10M",
+            "funding_sources": [
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Standard keep successful know it reduce.",
+            "csr_initiatives": "Actually simple like event never event.",
+            "awards_certifications": [],
+            "compliance_with_labor_laws": true,
+            "compliance_details": null,
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Jones, Walsh and Decker",
+            "trade_name_dba": "Jones, Walsh and Decker",
+            "registration_number": "515087401",
+            "year_of_establishment": 1902,
+            "industry_field": "Agriculture",
+            "company_size": "51-200 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "NYALI",
+                "ward": "ZIWA LA NG'OMBE",
+                "postal_address": "72120",
+                "latitude": "0.89431",
+                "longitude": "35.5296"
+            },
+            "branch_locations": [],
+            "phone_number": "+254083407690",
+            "alternate_phone_number": "+254899869308",
+            "email_address": "davisvirginia@bates.info",
+            "website_url": "http://james.com",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Software Development",
+            "secondary_activities": [
+                "Hospitality"
+            ],
+            "products_services_offered": [
+                "Consulting Services"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [],
+            "operating_hours": null
+        },
+        "Employment Information": {
+            "number_of_employees": 816,
+            "employee_demographics": null,
+            "recruitment_policy": "On-site",
+            "skills_qualifications_required": [
+                "Project Management"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": [
+                "Pension",
+                "Health Insurance",
+                "Paid Leave"
+            ]
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "1902-04-10T00:00:00",
+            "tax_identification_number": "3263847804",
+            "license_number": "ETG5URB",
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Loans"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Believe stand enough training but leg challenge space ready cup note fight.",
+            "csr_initiatives": "During allow case draw specific tonight wish significant son.",
+            "awards_certifications": [
+                "Over Award",
+                "Price Award"
+            ],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    },
+    {
+        "Basic Information": {
+            "company_name": "Stanley Ltd",
+            "trade_name_dba": null,
+            "registration_number": "211932516",
+            "year_of_establishment": 2017,
+            "industry_field": "Finance",
+            "company_size": "11-50 employees",
+            "organization_type": "NGO"
+        },
+        "Contact Information": {
+            "headquarters_address": {
+                "county": "Mombasa",
+                "sub_county": "CHANGAMWE",
+                "ward": "KIPEVU",
+                "postal_address": "94273",
+                "latitude": "-0.49923",
+                "longitude": "32.17086"
+            },
+            "branch_locations": [
+                {
+                    "branch_name": "Group",
+                    "sub_county": "LIKONI",
+                    "ward": "SHIKA ADABU",
+                    "postal_address": "62939",
+                    "latitude": "-0.26521",
+                    "longitude": "32.52313"
+                }
+            ],
+            "phone_number": "+254756339535",
+            "alternate_phone_number": null,
+            "email_address": "evansjonathan@johnson.com",
+            "website_url": "http://welch.com",
+            "social_media_handles": []
+        },
+        "Business Activities": {
+            "primary_line_of_business": "Manufacturing",
+            "secondary_activities": [],
+            "products_services_offered": [
+                "Consulting Services"
+            ],
+            "target_market": "Regional",
+            "key_clients_partners": [
+                "Hamilton Ltd"
+            ],
+            "operating_hours": "Mon-Fri 9am-5pm UTC+3"
+        },
+        "Employment Information": {
+            "number_of_employees": 799,
+            "employee_demographics": null,
+            "recruitment_policy": "Remote",
+            "skills_qualifications_required": [
+                "Design",
+                "Programming",
+                "Sales"
+            ],
+            "training_development_offered": true,
+            "employee_benefits": [
+                "Pension",
+                "Flexible Hours",
+                "Paid Leave"
+            ]
+        },
+        "Legal and Financial Information": {
+            "business_registration_date": "2017-09-17T00:00:00",
+            "tax_identification_number": "1442102779",
+            "license_number": null,
+            "annual_revenue_bracket": "$50M-$100M",
+            "funding_sources": [
+                "Grants"
+            ]
+        },
+        "Miscellaneous": {
+            "company_mission_vision": "Attorney agency think suffer hold hold within against military member idea executive.",
+            "csr_initiatives": "Market inside agent security because economic phone.",
+            "awards_certifications": [],
+            "compliance_with_labor_laws": false,
+            "compliance_details": "Non-compliance in some labor regulations.",
+            "preferred_communication_channel": "Meetings"
+        }
+    }
+]

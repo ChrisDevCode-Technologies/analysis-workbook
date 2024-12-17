@@ -1,0 +1,3390 @@
+{
+    "ACT-1734434608-R06C3U": {
+        "activity_name": "Secured bifurcated system engine",
+        "total_rsvpd": 20,
+        "total_attended": 9,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 10,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-M9U3U0": {
+        "activity_name": "Reverse-engineered 24/7 alliance",
+        "total_rsvpd": 6,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-BBMEWW": {
+        "activity_name": "Optimized intermediate encryption",
+        "total_rsvpd": 6,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-ZWTH24": {
+        "activity_name": "Upgradable holistic middleware",
+        "total_rsvpd": 2,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-QKQFYQ": {
+        "activity_name": "Integrated transitional collaboration",
+        "total_rsvpd": 16,
+        "total_attended": 9,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 5,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-24IECW": {
+        "activity_name": "Reactive 4thgeneration service-desk",
+        "total_rsvpd": 2,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-R5UDNL": {
+        "activity_name": "Persistent eco-centric Internet solution",
+        "total_rsvpd": 11,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 4,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-ESLJVS": {
+        "activity_name": "Re-engineered local open system",
+        "total_rsvpd": 18,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 7,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-CQ1LA5": {
+        "activity_name": "Compatible global conglomeration",
+        "total_rsvpd": 2,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-8F1O9Z": {
+        "activity_name": "Grass-roots coherent support",
+        "total_rsvpd": 11,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-8E72I7": {
+        "activity_name": "Polarized multi-state groupware",
+        "total_rsvpd": 10,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-8E9EEP": {
+        "activity_name": "Focused client-server ability",
+        "total_rsvpd": 15,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-C1TNDD": {
+        "activity_name": "Cloned local secured line",
+        "total_rsvpd": 7,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-NBXYIE": {
+        "activity_name": "Polarized exuding capability",
+        "total_rsvpd": 7,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-LL9AMA": {
+        "activity_name": "Grass-roots composite attitude",
+        "total_rsvpd": 11,
+        "total_attended": 9,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-I6NGTY": {
+        "activity_name": "Extended client-server policy",
+        "total_rsvpd": 7,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-KIXFWO": {
+        "activity_name": "Fundamental scalable methodology",
+        "total_rsvpd": 20,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 7,
+            "Not specified": 10
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-KGNZ9F": {
+        "activity_name": "Versatile multimedia middleware",
+        "total_rsvpd": 10,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-KP7ELT": {
+        "activity_name": "Synchronized intermediate productivity",
+        "total_rsvpd": 7,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-B80VSH": {
+        "activity_name": "Reduced demand-driven model",
+        "total_rsvpd": 4,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-EEJQT6": {
+        "activity_name": "Robust value-added parallelism",
+        "total_rsvpd": 3,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-NGEMM5": {
+        "activity_name": "Synergistic systematic infrastructure",
+        "total_rsvpd": 2,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-471X8H": {
+        "activity_name": "Multi-channeled mobile paradigm",
+        "total_rsvpd": 19,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 6,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-Z2MTBK": {
+        "activity_name": "Balanced dedicated synergy",
+        "total_rsvpd": 4,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-73QO5V": {
+        "activity_name": "Switchable analyzing superstructure",
+        "total_rsvpd": 15,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 5,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 1,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-HZGI2Q": {
+        "activity_name": "Compatible discrete moderator",
+        "total_rsvpd": 14,
+        "total_attended": 9,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 3,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-DZK0PB": {
+        "activity_name": "Switchable systemic middleware",
+        "total_rsvpd": 5,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-U131RJ": {
+        "activity_name": "Expanded scalable moratorium",
+        "total_rsvpd": 17,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 8,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 0,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-F8M7RM": {
+        "activity_name": "Devolved 6thgeneration strategy",
+        "total_rsvpd": 11,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-BILOS9": {
+        "activity_name": "Open-architected bandwidth-monitored focus group",
+        "total_rsvpd": 4,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-HEP9Y3": {
+        "activity_name": "Expanded multi-state attitude",
+        "total_rsvpd": 14,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 7,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-8I7CJ8": {
+        "activity_name": "Operative context-sensitive superstructure",
+        "total_rsvpd": 1,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-JLF6MY": {
+        "activity_name": "Expanded motivating infrastructure",
+        "total_rsvpd": 6,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-QCZENS": {
+        "activity_name": "Reduced optimizing hardware",
+        "total_rsvpd": 19,
+        "total_attended": 16,
+        "gender_breakdown_rsvpd": {
+            "Male": 10,
+            "Female": 8,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 8,
+            "Female": 7,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 4,
+            "Over 40": 11
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-V574PA": {
+        "activity_name": "Cloned homogeneous analyzer",
+        "total_rsvpd": 6,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-X94KAN": {
+        "activity_name": "Total full-range challenge",
+        "total_rsvpd": 18,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 10,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-BJ60FM": {
+        "activity_name": "Upgradable reciprocal superstructure",
+        "total_rsvpd": 13,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-4TY04W": {
+        "activity_name": "Digitized demand-driven methodology",
+        "total_rsvpd": 7,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-E0RZW1": {
+        "activity_name": "Diverse intermediate access",
+        "total_rsvpd": 16,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 2,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-Y861YK": {
+        "activity_name": "Exclusive optimal service-desk",
+        "total_rsvpd": 16,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 5,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 4,
+            "26-40": 2,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-FT8LWQ": {
+        "activity_name": "User-friendly foreground Graphical User Interface",
+        "total_rsvpd": 3,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-KOPIWZ": {
+        "activity_name": "Operative multi-state protocol",
+        "total_rsvpd": 15,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 7,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-5BKBKP": {
+        "activity_name": "Object-based tertiary projection",
+        "total_rsvpd": 11,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 3,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-Q00E38": {
+        "activity_name": "Customizable intermediate core",
+        "total_rsvpd": 16,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 2,
+            "Not specified": 9
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-VXMK9X": {
+        "activity_name": "Versatile zero tolerance moderator",
+        "total_rsvpd": 5,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-P7U9XU": {
+        "activity_name": "Mandatory uniform task-force",
+        "total_rsvpd": 8,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 5,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-X0GGFO": {
+        "activity_name": "Inverse bifurcated framework",
+        "total_rsvpd": 8,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-S27I9A": {
+        "activity_name": "Robust systemic customer loyalty",
+        "total_rsvpd": 5,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-V8MEJH": {
+        "activity_name": "Managed composite protocol",
+        "total_rsvpd": 9,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-RPNZS4": {
+        "activity_name": "Diverse bandwidth-monitored implementation",
+        "total_rsvpd": 18,
+        "total_attended": 11,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 5,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 2,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 6,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-Z0YKR2": {
+        "activity_name": "Enterprise-wide logistical monitoring",
+        "total_rsvpd": 16,
+        "total_attended": 16,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 8,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 6,
+            "26-40": 2,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-JTQEJ5": {
+        "activity_name": "Visionary foreground project",
+        "total_rsvpd": 4,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-Y1KXSK": {
+        "activity_name": "De-engineered real-time architecture",
+        "total_rsvpd": 10,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 0,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-39W5MD": {
+        "activity_name": "Assimilated content-based strategy",
+        "total_rsvpd": 5,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-GGTEPR": {
+        "activity_name": "Monitored bifurcated customer loyalty",
+        "total_rsvpd": 20,
+        "total_attended": 13,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 8,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 4,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 12
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-CR7I66": {
+        "activity_name": "Re-contextualized attitude-oriented firmware",
+        "total_rsvpd": 13,
+        "total_attended": 13,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 3,
+            "Over 40": 9
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-HS8BYU": {
+        "activity_name": "Integrated needs-based strategy",
+        "total_rsvpd": 15,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 1,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-P6PNIN": {
+        "activity_name": "Monitored non-volatile architecture",
+        "total_rsvpd": 5,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-HISXSF": {
+        "activity_name": "Reduced value-added middleware",
+        "total_rsvpd": 4,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-4QUBLZ": {
+        "activity_name": "Synergistic asymmetric data-warehouse",
+        "total_rsvpd": 13,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-EQBHGA": {
+        "activity_name": "Business-focused empowering policy",
+        "total_rsvpd": 14,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-ZO3UX8": {
+        "activity_name": "Multi-layered systemic hierarchy",
+        "total_rsvpd": 12,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 5,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-SK2AAZ": {
+        "activity_name": "Persistent exuding encoding",
+        "total_rsvpd": 17,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 7,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-DCJGGN": {
+        "activity_name": "Re-contextualized 4thgeneration budgetary management",
+        "total_rsvpd": 6,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-FSP7KO": {
+        "activity_name": "User-friendly heuristic benchmark",
+        "total_rsvpd": 1,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-VXR88Q": {
+        "activity_name": "Re-engineered composite success",
+        "total_rsvpd": 9,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-CTFQZS": {
+        "activity_name": "Optimized bandwidth-monitored array",
+        "total_rsvpd": 16,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 6,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 3,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-YIVUK3": {
+        "activity_name": "Re-contextualized asymmetric frame",
+        "total_rsvpd": 8,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-MR0GA3": {
+        "activity_name": "Universal multimedia instruction set",
+        "total_rsvpd": 8,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 6,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-X8XE9A": {
+        "activity_name": "Organic multimedia paradigm",
+        "total_rsvpd": 1,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-A3500V": {
+        "activity_name": "Versatile multimedia budgetary management",
+        "total_rsvpd": 7,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-Y8YS4U": {
+        "activity_name": "Quality-focused foreground middleware",
+        "total_rsvpd": 9,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 3,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734434608-L9WLQF": {
+        "activity_name": "Optimized high-level database",
+        "total_rsvpd": 3,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-DMPBSU": {
+        "activity_name": "Centralized solution-oriented core",
+        "total_rsvpd": 9,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734434608-WHRT03": {
+        "activity_name": "Fundamental user-facing benchmark",
+        "total_rsvpd": 8,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734434608-0DES1V": {
+        "activity_name": "Monitored needs-based product",
+        "total_rsvpd": 14,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734434608-D8THML": {
+        "activity_name": "Multi-layered multi-state toolset",
+        "total_rsvpd": 13,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 3,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 0,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-JXLGFO": {
+        "activity_name": "Focused object-oriented superstructure",
+        "total_rsvpd": 16,
+        "total_attended": 11,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-8Q6WYO": {
+        "activity_name": "Diverse global ability",
+        "total_rsvpd": 20,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 6,
+            "Not specified": 8
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-2TV2QY": {
+        "activity_name": "Sharable mission-critical matrices",
+        "total_rsvpd": 15,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 8,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 6,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-UPXV3V": {
+        "activity_name": "Front-line multi-tasking software",
+        "total_rsvpd": 19,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 9,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-1D4849": {
+        "activity_name": "Seamless uniform structure",
+        "total_rsvpd": 20,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 8,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-FS8H8O": {
+        "activity_name": "Ergonomic attitude-oriented installation",
+        "total_rsvpd": 9,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-FZ1SR4": {
+        "activity_name": "Distributed value-added adapter",
+        "total_rsvpd": 20,
+        "total_attended": 17,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 6,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 5,
+            "Not specified": 6
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 5,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-6C95GZ": {
+        "activity_name": "Realigned didactic firmware",
+        "total_rsvpd": 7,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-SB31ZX": {
+        "activity_name": "Extended static model",
+        "total_rsvpd": 16,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 6,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-HSYQ2V": {
+        "activity_name": "Ergonomic interactive conglomeration",
+        "total_rsvpd": 10,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-75XEEM": {
+        "activity_name": "Balanced zero tolerance budgetary management",
+        "total_rsvpd": 2,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-NNLSV9": {
+        "activity_name": "Operative even-keeled migration",
+        "total_rsvpd": 18,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 10,
+            "Female": 2,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-7FXS9T": {
+        "activity_name": "Implemented motivating capacity",
+        "total_rsvpd": 11,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 3,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-PIL0HH": {
+        "activity_name": "Organized intermediate matrices",
+        "total_rsvpd": 8,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 5,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-B9G6CX": {
+        "activity_name": "Versatile radical synergy",
+        "total_rsvpd": 16,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 6,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 5,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 0,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-6NK7CA": {
+        "activity_name": "Sharable global attitude",
+        "total_rsvpd": 16,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 4,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-QXY2ZG": {
+        "activity_name": "Multi-lateral homogeneous synergy",
+        "total_rsvpd": 16,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 6,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-KLH3PL": {
+        "activity_name": "Automated neutral customer loyalty",
+        "total_rsvpd": 9,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 6,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734445555-ND4QI7": {
+        "activity_name": "Synergized context-sensitive ability",
+        "total_rsvpd": 9,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-ID0JIC": {
+        "activity_name": "Realigned discrete analyzer",
+        "total_rsvpd": 16,
+        "total_attended": 11,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 3,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 2,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 2,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-NEW9Z7": {
+        "activity_name": "Self-enabling dynamic circuit",
+        "total_rsvpd": 5,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 4,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-ULGMK2": {
+        "activity_name": "Ameliorated real-time data-warehouse",
+        "total_rsvpd": 13,
+        "total_attended": 13,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 2,
+            "Over 40": 9
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-I6XIHC": {
+        "activity_name": "Stand-alone local standardization",
+        "total_rsvpd": 16,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 6,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-K6YLLW": {
+        "activity_name": "Integrated demand-driven Local Area Network",
+        "total_rsvpd": 13,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 7,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 9
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-XW2G0G": {
+        "activity_name": "Switchable next generation knowledgebase",
+        "total_rsvpd": 12,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 9
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-JEYQK6": {
+        "activity_name": "Persistent disintermediate middleware",
+        "total_rsvpd": 8,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734445555-QPSLLB": {
+        "activity_name": "Advanced well-modulated flexibility",
+        "total_rsvpd": 15,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 6,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 3,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-WJ358P": {
+        "activity_name": "User-centric homogeneous parallelism",
+        "total_rsvpd": 8,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-4INN05": {
+        "activity_name": "Configurable non-volatile access",
+        "total_rsvpd": 4,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-PRJLNI": {
+        "activity_name": "Adaptive content-based access",
+        "total_rsvpd": 20,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 7,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-QG06EM": {
+        "activity_name": "Automated mobile contingency",
+        "total_rsvpd": 15,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 7,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 7,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 2,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-GF7SBN": {
+        "activity_name": "Future-proofed high-level middleware",
+        "total_rsvpd": 10,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 3,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-V7CC3K": {
+        "activity_name": "Cross-group logistical infrastructure",
+        "total_rsvpd": 13,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 5,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-GC0K12": {
+        "activity_name": "Reverse-engineered multi-state paradigm",
+        "total_rsvpd": 12,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 4,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-RCS0KW": {
+        "activity_name": "Multi-tiered object-oriented moderator",
+        "total_rsvpd": 15,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 8,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 6,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 3,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-YQ565Q": {
+        "activity_name": "Versatile analyzing alliance",
+        "total_rsvpd": 5,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-KEM6L8": {
+        "activity_name": "Synergized fault-tolerant groupware",
+        "total_rsvpd": 3,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-WIT54Z": {
+        "activity_name": "Virtual attitude-oriented moratorium",
+        "total_rsvpd": 19,
+        "total_attended": 7,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 7,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-QUVH3F": {
+        "activity_name": "Intuitive explicit website",
+        "total_rsvpd": 12,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 6,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-62F160": {
+        "activity_name": "Fully-configurable systematic matrices",
+        "total_rsvpd": 5,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-VEM5TU": {
+        "activity_name": "Intuitive clear-thinking Graphical User Interface",
+        "total_rsvpd": 18,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 6,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-HN6LUH": {
+        "activity_name": "Profound human-resource success",
+        "total_rsvpd": 18,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 8,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 7,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-GXWCX3": {
+        "activity_name": "Configurable intermediate array",
+        "total_rsvpd": 10,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 3,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-76BAOO": {
+        "activity_name": "Team-oriented eco-centric Local Area Network",
+        "total_rsvpd": 3,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734445555-THGMRE": {
+        "activity_name": "Multi-layered optimizing Graphical User Interface",
+        "total_rsvpd": 5,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 4,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-QPLNPP": {
+        "activity_name": "Programmable regional hierarchy",
+        "total_rsvpd": 14,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 6,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-DGIJ7X": {
+        "activity_name": "Polarized reciprocal standardization",
+        "total_rsvpd": 6,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 1,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-RILJ5H": {
+        "activity_name": "Up-sized leadingedge secured line",
+        "total_rsvpd": 19,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 6,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 6,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 4,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-6HTHQ6": {
+        "activity_name": "Profit-focused mobile orchestration",
+        "total_rsvpd": 1,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-K1V86E": {
+        "activity_name": "Distributed high-level projection",
+        "total_rsvpd": 17,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 7,
+            "Not specified": 8
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 5,
+            "Not specified": 8
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 9
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-N5QNNI": {
+        "activity_name": "Synergized client-server Graphical User Interface",
+        "total_rsvpd": 10,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 5,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-ADAFKE": {
+        "activity_name": "Managed optimal extranet",
+        "total_rsvpd": 2,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-WGFKSG": {
+        "activity_name": "Focused interactive utilization",
+        "total_rsvpd": 11,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 9,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-79P8DV": {
+        "activity_name": "Configurable asymmetric archive",
+        "total_rsvpd": 15,
+        "total_attended": 10,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 3,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 4,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-LDB8OL": {
+        "activity_name": "Down-sized local instruction set",
+        "total_rsvpd": 5,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-COPM41": {
+        "activity_name": "Synergized analyzing flexibility",
+        "total_rsvpd": 7,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 2,
+            "Not specified": 0
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734445555-E11514": {
+        "activity_name": "Re-engineered neutral portal",
+        "total_rsvpd": 11,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 3,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-YXEMVI": {
+        "activity_name": "User-centric multimedia architecture",
+        "total_rsvpd": 12,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 4,
+            "Not specified": 5
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-DP05O7": {
+        "activity_name": "Profound directional Local Area Network",
+        "total_rsvpd": 6,
+        "total_attended": 3,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 0,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-6L6D51": {
+        "activity_name": "Adaptive secondary knowledgebase",
+        "total_rsvpd": 6,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-MKTKSL": {
+        "activity_name": "Total fresh-thinking implementation",
+        "total_rsvpd": 12,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 6
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 3,
+            "26-40": 3,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-7IX3HM": {
+        "activity_name": "Versatile impactful knowledge user",
+        "total_rsvpd": 12,
+        "total_attended": 11,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 2,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 2,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-VY94DD": {
+        "activity_name": "Reverse-engineered uniform interface",
+        "total_rsvpd": 6,
+        "total_attended": 2,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 4,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-AABV06": {
+        "activity_name": "Stand-alone non-volatile policy",
+        "total_rsvpd": 18,
+        "total_attended": 15,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 8,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 7,
+            "Female": 7,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-PDPEIU": {
+        "activity_name": "Secured 6thgeneration collaboration",
+        "total_rsvpd": 17,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 5,
+            "Not specified": 8
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 1,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 2,
+            "Over 40": 2
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-GID1I0": {
+        "activity_name": "Up-sized grid-enabled matrix",
+        "total_rsvpd": 6,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 1,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 3,
+            "Over 40": 1
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-8EA6TW": {
+        "activity_name": "Organic attitude-oriented architecture",
+        "total_rsvpd": 13,
+        "total_attended": 8,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 3,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 3,
+            "Not specified": 5
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 7
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-2RB006": {
+        "activity_name": "Horizontal reciprocal customer loyalty",
+        "total_rsvpd": 3,
+        "total_attended": 0,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 0,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 0,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": null
+    },
+    "ACT-1734445555-FZODKX": {
+        "activity_name": "Open-source web-enabled neural-net",
+        "total_rsvpd": 12,
+        "total_attended": 1,
+        "gender_breakdown_rsvpd": {
+            "Male": 1,
+            "Female": 9,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 1,
+            "Not specified": 0
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 0,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "18-25"
+    },
+    "ACT-1734445555-GXUJW3": {
+        "activity_name": "Profit-focused clear-thinking knowledge user",
+        "total_rsvpd": 5,
+        "total_attended": 4,
+        "gender_breakdown_rsvpd": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 1
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 3,
+            "Over 40": 0
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-1DHZ08": {
+        "activity_name": "Re-contextualized grid-enabled ability",
+        "total_rsvpd": 14,
+        "total_attended": 5,
+        "gender_breakdown_rsvpd": {
+            "Male": 3,
+            "Female": 7,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 0,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 0,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-NPZQER": {
+        "activity_name": "Reduced multimedia secured line",
+        "total_rsvpd": 12,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 5,
+            "Female": 5,
+            "Not specified": 2
+        },
+        "gender_breakdown_attended": {
+            "Male": 2,
+            "Female": 2,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 1,
+            "Over 40": 4
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-EVVP88": {
+        "activity_name": "Innovative incremental moderator",
+        "total_rsvpd": 20,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 7,
+            "Not specified": 7
+        },
+        "gender_breakdown_attended": {
+            "Male": 4,
+            "Female": 4,
+            "Not specified": 6
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 3,
+            "Over 40": 10
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-46WE6Z": {
+        "activity_name": "Exclusive disintermediate functionalities",
+        "total_rsvpd": 20,
+        "total_attended": 13,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 9,
+            "Not specified": 3
+        },
+        "gender_breakdown_attended": {
+            "Male": 5,
+            "Female": 6,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 6,
+            "Over 40": 5
+        },
+        "major_age_group_attendees": "26-40"
+    },
+    "ACT-1734445555-2QGGMP": {
+        "activity_name": "Extended asymmetric complexity",
+        "total_rsvpd": 20,
+        "total_attended": 6,
+        "gender_breakdown_rsvpd": {
+            "Male": 8,
+            "Female": 6,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 1,
+            "Female": 2,
+            "Not specified": 3
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 1,
+            "Over 40": 3
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-HO2CA2": {
+        "activity_name": "Robust incremental initiative",
+        "total_rsvpd": 14,
+        "total_attended": 14,
+        "gender_breakdown_rsvpd": {
+            "Male": 7,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "gender_breakdown_attended": {
+            "Male": 7,
+            "Female": 3,
+            "Not specified": 4
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 2,
+            "26-40": 4,
+            "Over 40": 8
+        },
+        "major_age_group_attendees": "Over 40"
+    },
+    "ACT-1734445555-EPG35Q": {
+        "activity_name": "Customer-focused zero-defect algorithm",
+        "total_rsvpd": 16,
+        "total_attended": 12,
+        "gender_breakdown_rsvpd": {
+            "Male": 6,
+            "Female": 4,
+            "Not specified": 6
+        },
+        "gender_breakdown_attended": {
+            "Male": 6,
+            "Female": 4,
+            "Not specified": 2
+        },
+        "age_groups_attended": {
+            "Under 18": 0,
+            "18-25": 1,
+            "26-40": 5,
+            "Over 40": 6
+        },
+        "major_age_group_attendees": "Over 40"
+    }
+}
