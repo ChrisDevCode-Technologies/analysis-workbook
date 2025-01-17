@@ -4,7 +4,11 @@ This workbook generates realistic data for people, but making it "dummy" so as t
 
 ## Running the Workbook
 
+Clone the Repo:
 
+```
+git clone 
+```
 
 ## People Data
 
